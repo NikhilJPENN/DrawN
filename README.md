@@ -8,6 +8,6 @@ his project follows traditional image classification and 3D model retrieval base
 
 Kindly look into DrawN.pdf
 
-Kinldy look into 
+Kinldy look into drawN1.py
 
 For full data set and other dependencies please contact! 
